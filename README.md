@@ -52,3 +52,6 @@ Finally, the processed DataFrame is saved to a CSV file named complete_output.cs
 
 Conclusion
 This code is a compact and practical example of a real-world data preprocessing pipeline. It covers all critical aspects—cleaning missing values, encoding categorical variables, scaling numerical features, and saving results. These steps form the backbone of preparing data for analysis and model building, and the code can easily be adapted to larger or more complex datasets.
+
+
+<img width="1410" height="486" alt="Image" src="https://github.com/user-attachments/assets/a1753138-41af-472e-9892-fe66bc21fc9b" />
