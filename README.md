@@ -1,5 +1,17 @@
 # DATA-PIPELINE-DEVELOPMENT
 
+"COMPANY":CODETECH IT SOLUTIONS
+
+"NAME":G NAVEEN
+
+"INTERN ID":CT04DF448
+
+"DOMAIN":DATA SCIENCE
+
+"DURATION": 4 WEEKS
+
+"MENTOR":NEELA SANTOSH
+
 
 This Python script demonstrates a typical data preprocessing workflow using the pandas and scikit-learn libraries. It performs key steps such as handling missing values, encoding categorical variables, scaling numerical features, and exporting the cleaned dataset to a CSV file. These operations are fundamental in preparing data for machine learning models and analytics.
 
